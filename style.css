@@ -45,7 +45,7 @@
 /* home section styling  */
 .home{
     display: flex;
-    background: url("image2.jpg");
+    background: url("./image2.jpg");
     height: 100vh;
     color: #fff;
     min-height: 500px;
